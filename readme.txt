@@ -9,5 +9,5 @@ documentation.wiki in the pegtl distribution archive.
 Colin Hirsch
 pegtl@cohi.at
 
-Note that this an older version of PEGTL v0.32. See the latest of PEGTL at
-https://github.com/ColinH/PEGTL.
+Note that this a fork of an older version of PEGTL v0.32. For the latest
+version check out https://github.com/ColinH/PEGTL.
